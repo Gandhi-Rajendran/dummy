@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@550&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+  /* outline: 1px solid greenyellow; */
+}
+body {
+  margin: 0%;
+  padding: 0%;
+}
