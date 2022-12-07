@@ -2,7 +2,7 @@
   "name": "react-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gandhi-rajendran.github.io/aequalis-login",
+  "homepage": "https://gandhi-rajendran.github.io/aequalis-network",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
