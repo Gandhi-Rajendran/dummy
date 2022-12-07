@@ -17,6 +17,6 @@ Click here [aequalis-network](https://gandhi-rajendran.github.io/aequalis-networ
 
     Note: Use this username and password for entry purpose.
 
-`Login Id: admin`
+`Login Id: gandhi`
 
 `Password: 123`
