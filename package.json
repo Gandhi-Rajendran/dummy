@@ -2,7 +2,7 @@
   "name": "react-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gandhi-rajendran.github.io/elite-network",
+  "homepage": "https://gandhi-rajendran.github.io/elite-network/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
