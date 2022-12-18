@@ -1,4 +1,4 @@
-# Aequalis-Network
+# Elite-Network
 
 1. This project can add,edit and delete the user into aequalis network and its fully authenicated.
 2. Registered user can only logged inside the aequalis network.
@@ -13,7 +13,7 @@
 - Styled Components - To write the optimium css code for styling.
 - React Hook forms - for validate the user register form.
 
-Click here [aequalis-network](https://gandhi-rajendran.github.io/aequalis-network/), To vist the live website.
+Click here [Elite-network](https://gandhi-rajendran.github.io/elite-network/), To vist the live website.
 
     Note: Use this username and password for entry purpose.
 
