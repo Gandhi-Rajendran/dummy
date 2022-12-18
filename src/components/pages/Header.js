@@ -27,7 +27,7 @@ const Header = () => {
       >
         <Toolbar>
           <Typography variant="h6" pr={3}>
-            Aequalis
+            Elite Network
           </Typography>
           {userLogin && (
             <>
